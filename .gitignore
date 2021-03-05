@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# single File
+telebot/settings.py
+ebayDB/img/*
