@@ -131,3 +131,4 @@ dmypy.json
 # single File
 telebot/settings.py
 ebayDB/img/*
+ebayDB/db/ebay.db
